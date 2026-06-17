@@ -1,0 +1,201 @@
+review_id,customer_id,product_id,rating,comment
+4001,1003,2023,5,Packaging was damaged
+4002,1041,2023,4,Bad experience
+4003,1060,2026,1,Not worth the price
+4004,1014,2011,2,Will buy again
+4005,1075,2010,1,Fast delivery
+4006,1082,2030,2,Will buy again
+4007,1012,2018,2,Fast delivery
+4008,1087,2018,1,Excellent product
+4009,1012,2017,5,Fast delivery
+4010,1013,2026,2,Bad experience
+4011,1025,2008,1,Bad experience
+4012,1045,2015,2,Good quality
+4013,1019,2008,3,Bad experience
+4014,1055,2017,5,Packaging was damaged
+4015,1100,2012,4,Fast delivery
+4016,1045,2027,2,Bad experience
+4017,1008,2008,3,Excellent product
+4018,1093,2025,4,Will buy again
+4019,1053,2014,4,Will buy again
+4020,1055,2004,2,Good quality
+4021,1032,2001,1,Will buy again
+4022,1051,2001,2,Fast delivery
+4023,1044,2019,3,Good quality
+4024,1082,2016,4,Fast delivery
+4025,1070,2014,2,Excellent product
+4026,1018,2021,1,Good quality
+4027,1083,2016,2,Not worth the price
+4028,1022,2005,5,Packaging was damaged
+4029,1037,2009,1,Packaging was damaged
+4030,1096,2026,3,Fast delivery
+4031,1056,2030,4,Will buy again
+4032,1059,2028,2,Not worth the price
+4033,1003,2002,1,Good quality
+4034,1028,2018,5,Not worth the price
+4035,1074,2006,1,Not worth the price
+4036,1035,2009,5,Will buy again
+4037,1061,2001,3,Good quality
+4038,1093,2009,4,Excellent product
+4039,1054,2025,3,Will buy again
+4040,1063,2016,2,Not worth the price
+4041,1079,2013,1,Not worth the price
+4042,1097,2009,5,Excellent product
+4043,1007,2021,5,Not worth the price
+4044,1076,2013,1,Not worth the price
+4045,1049,2009,1,Not worth the price
+4046,1094,2011,2,Packaging was damaged
+4047,1085,2004,3,Will buy again
+4048,1031,2002,5,Bad experience
+4049,1058,2029,2,Will buy again
+4050,1061,2006,3,Excellent product
+4051,1024,2014,2,Not worth the price
+4052,1020,2004,5,Will buy again
+4053,1037,2006,1,Packaging was damaged
+4054,1004,2019,1,Excellent product
+4055,1092,2006,3,Fast delivery
+4056,1020,2002,4,Will buy again
+4057,1060,2018,3,Fast delivery
+4058,1024,2013,4,Not worth the price
+4059,1050,2009,2,Packaging was damaged
+4060,1049,2023,2,Packaging was damaged
+4061,1051,2019,5,Will buy again
+4062,1096,2013,4,Excellent product
+4063,1036,2011,5,Excellent product
+4064,1098,2001,1,Packaging was damaged
+4065,1100,2024,4,Excellent product
+4066,1066,2030,3,Packaging was damaged
+4067,1079,2022,1,Will buy again
+4068,1034,2007,1,Bad experience
+4069,1036,2025,3,Packaging was damaged
+4070,1006,2021,1,Fast delivery
+4071,1039,2015,4,Excellent product
+4072,1042,2001,5,Packaging was damaged
+4073,1058,2012,1,Packaging was damaged
+4074,1012,2026,4,Will buy again
+4075,1003,2007,2,Excellent product
+4076,1018,2015,4,Bad experience
+4077,1040,2021,5,Will buy again
+4078,1021,2019,4,Bad experience
+4079,1015,2028,3,Will buy again
+4080,1097,2029,5,Excellent product
+4081,1099,2025,2,Good quality
+4082,1026,2001,3,Excellent product
+4083,1008,2017,4,Excellent product
+4084,1100,2017,5,Bad experience
+4085,1094,2003,2,Bad experience
+4086,1087,2012,3,Excellent product
+4087,1042,2006,2,Excellent product
+4088,1044,2026,4,Excellent product
+4089,1014,2011,2,Bad experience
+4090,1078,2003,1,Excellent product
+4091,1002,2008,3,Excellent product
+4092,1037,2014,2,Not worth the price
+4093,1069,2014,4,Good quality
+4094,1038,2010,4,Fast delivery
+4095,1041,2002,2,Good quality
+4096,1062,2014,4,Not worth the price
+4097,1060,2009,5,Fast delivery
+4098,1014,2003,5,Will buy again
+4099,1089,2021,5,Excellent product
+4100,1084,2026,1,Not worth the price
+4101,1002,2008,2,Will buy again
+4102,1070,2016,1,Excellent product
+4103,1017,2002,4,Bad experience
+4104,1089,2006,1,Packaging was damaged
+4105,1028,2028,4,Not worth the price
+4106,1066,2021,4,Bad experience
+4107,1035,2029,3,Not worth the price
+4108,1005,2026,5,Not worth the price
+4109,1065,2025,4,Bad experience
+4110,1040,2012,3,Fast delivery
+4111,1076,2005,5,Good quality
+4112,1056,2002,4,Excellent product
+4113,1036,2016,4,Not worth the price
+4114,1045,2005,1,Excellent product
+4115,1023,2015,1,Packaging was damaged
+4116,1047,2012,5,Bad experience
+4117,1031,2004,4,Excellent product
+4118,1011,2015,2,Bad experience
+4119,1010,2011,1,Excellent product
+4120,1067,2016,5,Good quality
+4121,1014,2023,4,Good quality
+4122,1080,2006,4,Good quality
+4123,1074,2014,2,Good quality
+4124,1093,2018,5,Good quality
+4125,1010,2012,4,Good quality
+4126,1076,2027,1,Bad experience
+4127,1094,2011,2,Not worth the price
+4128,1001,2013,5,Excellent product
+4129,1005,2021,2,Good quality
+4130,1020,2023,1,Bad experience
+4131,1008,2011,5,Bad experience
+4132,1043,2023,2,Bad experience
+4133,1076,2016,3,Not worth the price
+4134,1001,2015,1,Excellent product
+4135,1057,2021,1,Not worth the price
+4136,1064,2028,1,Fast delivery
+4137,1084,2015,3,Will buy again
+4138,1028,2025,3,Bad experience
+4139,1037,2004,4,Fast delivery
+4140,1047,2011,2,Packaging was damaged
+4141,1076,2019,4,Good quality
+4142,1037,2015,2,Will buy again
+4143,1049,2004,3,Good quality
+4144,1044,2021,3,Not worth the price
+4145,1056,2013,4,Will buy again
+4146,1028,2022,5,Excellent product
+4147,1079,2019,4,Fast delivery
+4148,1006,2002,2,Excellent product
+4149,1061,2014,4,Not worth the price
+4150,1020,2029,1,Good quality
+4151,1078,2004,2,Will buy again
+4152,1002,2016,2,Excellent product
+4153,1073,2021,5,Excellent product
+4154,1037,2020,3,Good quality
+4155,1020,2014,2,Will buy again
+4156,1026,2027,3,Fast delivery
+4157,1029,2029,4,Good quality
+4158,1001,2015,1,Excellent product
+4159,1035,2028,5,Fast delivery
+4160,1070,2003,3,Fast delivery
+4161,1059,2008,2,Good quality
+4162,1069,2016,3,Excellent product
+4163,1033,2010,2,Not worth the price
+4164,1051,2004,3,Excellent product
+4165,1078,2030,2,Bad experience
+4166,1012,2018,4,Will buy again
+4167,1020,2002,2,Packaging was damaged
+4168,1053,2017,2,Not worth the price
+4169,1088,2013,1,Fast delivery
+4170,1043,2004,2,Not worth the price
+4171,1098,2026,1,Will buy again
+4172,1089,2025,5,Fast delivery
+4173,1050,2030,1,Will buy again
+4174,1029,2011,4,Fast delivery
+4175,1057,2007,1,Not worth the price
+4176,1039,2012,5,Fast delivery
+4177,1095,2010,4,Fast delivery
+4178,1056,2007,3,Bad experience
+4179,1043,2013,3,Excellent product
+4180,1050,2007,1,Excellent product
+4181,1023,2024,1,Packaging was damaged
+4182,1044,2017,5,Packaging was damaged
+4183,1038,2010,5,Bad experience
+4184,1084,2029,2,Packaging was damaged
+4185,1023,2010,5,Will buy again
+4186,1045,2024,2,Not worth the price
+4187,1052,2004,4,Good quality
+4188,1080,2020,1,Will buy again
+4189,1050,2004,4,Good quality
+4190,1008,2022,5,Good quality
+4191,1085,2007,4,Bad experience
+4192,1001,2022,4,Will buy again
+4193,1008,2001,4,Bad experience
+4194,1029,2012,5,Fast delivery
+4195,1096,2024,4,Good quality
+4196,1005,2013,2,Not worth the price
+4197,1086,2010,5,Packaging was damaged
+4198,1047,2015,4,Not worth the price
+4199,1034,2027,5,Packaging was damaged
+4200,1065,2013,3,Good quality
